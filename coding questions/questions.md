@@ -38,3 +38,6 @@
 
 13. Pangrams
 ![Pangrams](/images/pangrams.png)
+
+14. Special Array
+![Special Array](/images/specialArray.png)

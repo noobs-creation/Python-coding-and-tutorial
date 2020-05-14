@@ -1,22 +1,5 @@
-<h4>code_dcode q swapMaster.py</h4>
-<h5>SwapMaster solves Symmetric Swap</h5>
+<h3>PROBLEM STATEMENTS</h3>
 
-<h6>Problem Statement</h6>
-The SwapMaster is known to be the greatest and fastest swapper of all time. You intend to bring him down and become the new SwapMaster of the city. Through some secret sources, you found out that The SwapMaster undertook yet another task from Dr. Symmetry. The task he undertook is to perform a Symmetric Swap on an array A of numbers. Perform this task before SwapMaster to become the new SwapMaster. A Symmetric Swap involves swapping a number in an array with its symmetric position in the array. For example, if you want to swap element at position 2, you will swap it with the 2nd element from the back of the array.
+<img src="Python Tutorials/images/swapMaster.png">
 
-<h6>Input</h6>
-First line contains N, denoting the number of elements in the array A. Next line contains N space-separated positive numbers.
-
-<h6>Output</h6>
-Print the array after performing the Symmetric Swap on it.
-
-<h6>Constraints</h6>
-2 ≤ N ≤ 100 1 ≤ A[i] ≤ 1000
-
-<h6>Sample Input</h6>
-6
-1 2 3 4 5 6
-
-<h6>Sample Output</h6>
-
-6 5 4 3 2 1
+![SWAP MASTER SOLVES SYMMETRIC SWAP](/images/swapMaster.png)

@@ -1,3 +1,14 @@
+"""
+custom encoder such that
+
+for example :
+a will become t
+
+a + ascii of 'a' = ascii of 't'
+
+"""
+
+
 def custom_encoder(inp):
     for i in inp:
         ascii_temp = ord(i)

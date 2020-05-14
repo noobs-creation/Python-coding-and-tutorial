@@ -1,5 +1,6 @@
 <h3>PROBLEM STATEMENTS</h3>
 
-1. ![SWAP MASTER SOLVES SYMMETRIC SWAP](/images/swapMaster.png)
+1.
+ ![SWAP MASTER SOLVES SYMMETRIC SWAP](/images/swapMaster.png)
 
 2. 

@@ -41,3 +41,15 @@
 
 14. Special Array
 ![Special Array](/images/specialArray.png)
+
+15. Numbered Triangle
+![Numbered Triangle](/images/numberedTriangle.png)
+
+16. Archie and his Homework
+![Archie and his Homework](/images/archieAndHisHomework.png)
+
+17. Text Editor
+![Text Editor](/images/textEditor.png)
+
+18. The Homework
+![The Homework](/images/theHomework.png)

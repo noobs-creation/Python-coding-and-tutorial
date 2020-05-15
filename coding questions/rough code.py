@@ -6,3 +6,7 @@ if isinstance(a, int):
     print("YES")
 else:
     print("isnt working")
+
+
+for i in range(5-1, -1, -1):
+    print(i)
